@@ -1,7 +1,7 @@
 import javax.swing.JOptionPane;
 public class input_output5 {
     public static void main(String[] args){
-        System.out.println("bülent bey;");
+        System.out.println("Veysel bey;");
         int sonuc =JOptionPane.showConfirmDialog  //puts a checkbox on the screen
          (null,"Would you like some coffee?","order",JOptionPane.YES_NO_OPTION);
 
